@@ -1,13 +1,13 @@
 # kivy_username_example
 
-### Screen 1 
+### StartScreen.py
 
 User will place username input within text field.
 
 ![screen1](/img/screen1.jpg)
 
 
-### Screen 2
+### HomeScreen.py
 
 Switching to the next screen, Label on home screen will change.
 
